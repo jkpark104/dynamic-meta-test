@@ -12,7 +12,7 @@ function Others() {
         />
         <meta property="og:image:width" content="1600" />
         <meta property="og:image:height" content="900" />
-        <title>Home</title>
+        <title>Others</title>
       </Helmet>
       <h1>Others</h1>
     </>
