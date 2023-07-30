@@ -14,10 +14,6 @@
     "include": [
       "/",
       "/others"
-    ],
-    "puppeteerArgs": [
-      "--no-sandbox",
-      "--disable-setuid-sandbox"
     ]
   },
   "dependencies": {
